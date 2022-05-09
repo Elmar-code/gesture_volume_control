@@ -1,4 +1,3 @@
-#Munyu
 pul = 0
 def tanlov():
     print("Qanday.Yeguliklarimizdan xarid kimoxchisiz?")
